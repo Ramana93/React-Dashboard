@@ -25,4 +25,6 @@ npm run dev
 - API-Ninjas
 
 - 🎨 Demo
-- Image(dashboardimg.png)
+- Image(https://github.com/Ramana93/React-Dashboard/blob/main/dashboardimg.png)
+
+- 
