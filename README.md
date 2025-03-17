@@ -26,5 +26,3 @@ npm run dev
 
 - 🎨 Demo
 - Image(https://github.com/Ramana93/React-Dashboard/blob/main/dashboardimg.png)
-
-- 
